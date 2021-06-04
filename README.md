@@ -9,4 +9,4 @@ Uses an oculus DK2 HDM and the lightstone biofeedback device to measure galvanic
 We built this to get into VR development and we thought that a biofeedback device in a horror game would be an insteresting combination of technologies. I ended up pursuing VR development as a profession because of this project.
 
 
-[![Living Labyrinth Demo](https://youtu.be/BB6MbgTaWd4/0.jpg)](https://youtu.be/BB6MbgTaWd4)
+[![Living Labyrinth Demo](https://www.youtube.com/watch?v=BB6MbgTaWd4)](https://www.youtube.com/watch?v=BB6MbgTaWd4)
