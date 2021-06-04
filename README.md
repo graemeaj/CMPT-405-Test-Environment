@@ -10,3 +10,5 @@ We built this to get into VR development and we thought that a biofeedback devic
 
 
 [![Living Labyrinth Demo](https://www.youtube.com/watch?v=BB6MbgTaWd4)](https://www.youtube.com/watch?v=BB6MbgTaWd4 "Living Labyrinth Demo")
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
